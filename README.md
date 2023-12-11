@@ -1,2 +1,3 @@
-# learning-journal
-My Learning Journal for Web Development
+# Joomla Site: techinnovatehubbb.crabdance.com/Joomla
+
+# Wordpress Site: techinnovatehubb.mooo.com/example.com/public_html
