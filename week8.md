@@ -1,20 +1,20 @@
-# Prac 8 - A Comparative Study of Learning Techniques in Web Development for an Undergrad Student
+## Prac 8 - A Comparative Study of Learning Techniques in Web Development for an Undergrad Student
 
-# Learning Theory Hypothesis:
+## Learning Theory Hypothesis:
 I believe that active learning, which involves direct engagement through coding and problem-solving, will lead to a deeper and more practical understanding of web development concepts compared to passive methods like reading or watching videos.
 
-# Methodology:
+## Methodology:
 Duration: One week of focused learning sessions.
-# Learning Approaches:
+## Learning Approaches:
 Active Learning: Daily 4-hour sessions of practical web development tasks, including coding new features and debugging.
 Passive Learning: Another 4 hours daily spent on theoretical learning, such as watching online courses and reading technical blogs.
-# Daily Routine:
+## Daily Routine:
 Active sessions will be hands-on, like building WordPress features or solving PHP coding problems.
 Passive sessions will involve learning similar topics theoretically.
-# Evaluation:
+## Evaluation:
 Assess which method proves more effective in learning and retaining web development knowledge and skills.
 
-# Experiment Journal - Week 8:
+## Experiment Journal - Week 8:
 Active Learning Insights:
 
 Noticed a significant improvement in problem-solving skills and a deeper understanding of complex web development concepts.
@@ -35,5 +35,5 @@ Prioritize active learning in my educational approach, especially for hands-on f
 Use passive learning methods to supplement and support my active learning sessions.
 
 
-# Reflection:
+## Reflection:
 This experiment shed light on my learning preferences and their effectiveness. As a future web developer, actively engaging with the material is essential for building practical skills. This experience will inform my educational approach, emphasizing hands-on practice to become a skilled web developer.
