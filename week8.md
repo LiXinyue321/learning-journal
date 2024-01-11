@@ -1,6 +1,6 @@
-Prac 8 - A Comparative Study of Learning Techniques in Web Development for an Undergrad Student
+# Prac 8 - A Comparative Study of Learning Techniques in Web Development for an Undergrad Student
 
-Learning Theory Hypothesis:
+# Learning Theory Hypothesis:
 I believe that active learning, which involves direct engagement through coding and problem-solving, will lead to a deeper and more practical understanding of web development concepts compared to passive methods like reading or watching videos.
 
 # Methodology:
