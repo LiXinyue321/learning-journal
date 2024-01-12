@@ -1,39 +1,44 @@
-## Week8 Learning Journal
+# Week 8 Learning Journal
 
-## Learning Theory Hypothesis:
-I believe that active learning, which involves direct engagement through coding and problem-solving, will lead to a deeper and more practical understanding of web development concepts compared to passive methods like reading or watching videos.
+## Learning Activities & Resources
 
-## Methodology:
-Duration: One week of focused learning sessions.
-## Learning Approaches:
-Active Learning: Daily 4-hour sessions of practical web development tasks, including coding new features and debugging.
-Passive Learning: Another 4 hours daily spent on theoretical learning, such as watching online courses and reading technical blogs.
-## Daily Routine:
-Active sessions will be hands-on, like building WordPress features or solving PHP coding problems.
-Passive sessions will involve learning similar topics theoretically.
-## Evaluation:
-Assess which method proves more effective in learning and retaining web development knowledge and skills.
+### Learning Experiment Design:
+- **Hypothesis/Theory:** 
+  - _Active learning, which involves hands-on activities like coding and problem-solving, leads to a deeper and more practical understanding of web development concepts compared to passive learning methods like reading or watching videos._
 
-## Experiment Journal - Week 8:
-Active Learning Insights:
+### Experiment Setup:
+- **Active Learning (Test Group):**
+  - Perform hands-on web development tasks for 4 hours daily, including building features in WordPress and debugging PHP code.
+- **Passive Learning (Control Group):**
+  - Spend 4 hours daily on theoretical learning, including watching online courses and reading technical blogs.
 
-Noticed a significant improvement in problem-solving skills and a deeper understanding of complex web development concepts.
-Direct application of concepts led to better retention and a more nuanced grasp of the subject matter.
-Encountering and resolving real-time challenges enhanced my practical skills and confidence.
-Passive Learning Insights:
+### Learning Activities:
+- **Active Learning Activities:**
+  - Creating WordPress themes and plugins.
+  - Solving real coding challenges and debugging existing code.
+- **Passive Learning Activities:**
+  - Watching instructional videos on web development.
+  - Reading articles and technical documentation about PHP and WordPress.
 
-Gained a broader overview of topics but lacked depth and practical application.
-Found it challenging to retain and apply concepts learned passively in practical scenarios.
-Passive learning proved beneficial for theoretical understanding but limited in developing practical skills.
-Comparative Analysis and Conclusion:
+## Estimated Hours
+- **Total Active Learning:** 20 hours over the week.
+- **Total Passive Learning:** 20 hours over the week.
 
-The experiment clearly showed that active learning is more effective in developing practical web development skills.
-While passive learning expanded my theoretical knowledge, it was less impactful without the reinforcement of practical application.
-Future Learning Strategy:
+## Content Insights
+- **From Active Learning:**
+  - Gained practical skills in WordPress and PHP.
+  - Improved understanding of web development through real-world application.
+- **From Passive Learning:**
+  - Broadened theoretical knowledge of web development topics.
+  - Found difficulty in applying theoretical knowledge without practical context.
 
-Prioritize active learning in my educational approach, especially for hands-on fields like web development.
-Use passive learning methods to supplement and support my active learning sessions.
+## Career/Employability/Learning Insights
+- **Active Learning Reflections:**
+  - Hands-on experience is crucial for developing employable skills in web development.
+  - Active problem-solving enhances both understanding and retention of technical concepts.
+- **Passive Learning Reflections:**
+  - Theoretical knowledge is foundational but requires practical application to be fully grasped.
+  - A mixed approach of theory followed by practice is more beneficial than passive learning alone.
 
-
-## Reflection:
-This experiment shed light on my learning preferences and their effectiveness. As a future web developer, actively engaging with the material is essential for building practical skills. This experience will inform my educational approach, emphasizing hands-on practice to become a skilled web developer.
+## Reflection
+- The experiment conducted this week provided valuable insights into my learning preferences and their effectiveness in acquiring web development skills. Active learning clearly stood out as a more effective method for understanding and retaining complex technical concepts. This hands-on approach not only facilitates deeper learning but also prepares me for real-world challenges in web development. The insights gained from this experiment will shape my future learning strategies, prioritizing practical experience while using theoretical learning as a supportive framework.
